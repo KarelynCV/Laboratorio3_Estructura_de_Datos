@@ -1,0 +1,5 @@
+Fecha: 2026-10-11 15:23
+Python: 3.13.3 (tags/v3.13.3:6280bb5, Apr  8 2025, 14:47:33) [MSC v.1943 64 bit (AMD64)]
+Sistema: Windows-11-10.0.26200-SP0
+Procesador: Intel64 Family 6 Model 154 Stepping 4, GenuineIntel
+TAMANOS=[1000, 2000, 4000, 8000, 16000, 32000] REPETICIONES=10 BUSQUEDAS=2000 ORDEN_BMAS=32 SEMILLA=2026
